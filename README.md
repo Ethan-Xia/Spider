@@ -1,2 +1,2 @@
 # Spider
-Learn Spider with Python
+学习python语言下的spider。此项目中，主要记录了使用python语言开发的抓取“市长信箱”中信件的爬虫。随着学习的深入，开发出的不同版本放到不同的文件夹中，并对其中的关键进行记录。
